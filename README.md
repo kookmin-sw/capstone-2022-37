@@ -1,78 +1,57 @@
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7245809&assignment_repo_type=AssignmentRepo)
-# Welcome to GitHub
 
-캡스톤 팀 생성을 축하합니다.
+# 마케팅 자동화
+## 1.  프로젝트 소개
+본 프로젝트에서는 SNS 게시물에서 유의미한 데이터를 추출해 시각화하여 경제적 가치를 창출하는데 도움을 줄 수 있는 마케팅 자동화를 구축하려 한다.
 
-## 팀소개 및 페이지를 꾸며주세요.
+다양한 SNS채널을 이용하여 마케팅을 하는 기업 및 브랜드가 늘어가는 가운데 SNS 채널의 중요성이 올라가고 있다.  따라서 SNS채널의 관리가 곧 경제적 가치 창출로 이어지는데, 본 프로젝트에서는 RPA를 사용해 스케줄러 처리를 통해 주기적으로 데이터를 자동으로 얻고, SNS 계정별 restful api 정보를 활용해 게시물 별 데이터를 관리한다. 얻어온 데이터로는 apex DB와 oracle apex를 통해 사용자에게 시각적인 정보(대시보드 및 차트)를 제공한다.
 
-- 프로젝트 소개
-  - 프로젝트 설치방법 및 데모, 사용방법, 프리뷰등을 readme.md에 작성.
-  - Api나 사용방법등 내용이 많을경우 wiki에 꾸미고 링크 추가.
-
-- 팀페이지 꾸미기
-  - 프로젝트 소개 및 팀원 소개
-  - index.md 예시보고 수정.
-
-- GitHub Pages 리파지토리 Settings > Options > GitHub Pages 
-  - Source를 marster branch
-  - Theme Chooser에서 태마선택
-  - 수정후 팀페이지 확인하여 점검.
-
-**팀페이지 주소** -> https://kookmin-sw.github.io/ '{{자신의 리파지토리 아이디}}'
-
-**예시)** 2020년 0조  https://kookmin-sw.github.io/capstone-2020-0/
+### 시스템 구성도
+<a href='https://ifh.cc/v-SKmMng' target='_blank'><img src='https://ifh.cc/g/SKmMng.png' border='0'></a>
 
 
-## 내용에 아래와 같은 내용들을 추가하세요.
+## 2. 팀 소개
+#### 김용재 
 
-### 1. 프로잭트 소개
-
-프로젝트
-
-### 2. 소개 영상
-
-프로젝트 소개하는 영상을 추가하세요
-
-### 3. 팀 소개
-
-1. 김용재
-2. 홍진식 4학년
-
-팀원정보 및 담당이나 사진 및 SNS를 이용하여 소개하세요.
-
-### 4. 사용법
-
-소스코드제출시 설치법이나 사용법을 작성하세요.
-
-### 5. 기타
-
-추가적인 내용은 자유롭게 작성하세요.
-
-
-## Markdown을 사용하여 내용꾸미기
-
-Markdown은 작문을 스타일링하기위한 가볍고 사용하기 쉬운 구문입니다. 여기에는 다음을위한 규칙이 포함됩니다.
+<img src= "https://img.marieclairekorea.com/2022/01/mck_61ea7d9ea51ad.jpg" width="200px">
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+📧Student ID: 20185282
+👨‍🎓Email		: 
+💻Role		: 팀장
 ```
 
-자세한 내용은 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 홍진식
 
-### Support or Contact
+<img src= "https://ifh.cc/g/6VB3SL.jpg" width="200px"  height="200">
 
-readme 파일 생성에 추가적인 도움이 필요하면 [도움말](https://help.github.com/articles/about-readmes/) 이나 [contact support](https://github.com/contact) 을 이용하세요.
+```markdown
+📧Student ID: 20171723
+👨‍🎓Email		: eat159357@gmail.com
+💻Role		: SNS 게시물 데이터 ETL, RPA 개발
+```
+## 3. 개발
+### 협업
+* 협업 : 사내 내부 시스템
+* 회의 기록 : 사내 이메일, Classum
+* 형상관리 :  사내 내부 관리
+* 일정관리 : WBS
+
+### 개발
+* 데이터 수집 : SNS API, 웹 크롤링
+* 데이터 전송 : restfull api
+* DB : oracle DB
+* 웹 페이지 : oracle apex
+* RPA : BA-Studio
+
+
+## 4. 기타
+본 프로젝트는  **스페이스뱅크(주)** 회사와 함께 진행하는 2022 국민대학교 캡스톤디자인 산학자유주제 프로젝트이다.
+
+
+
+
+
+  
+
