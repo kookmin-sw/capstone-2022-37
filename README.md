@@ -12,7 +12,7 @@
 ## 2. 팀 소개
 #### 김용재 
 
-<img src= "https://ifh.cc/g/g18qOF.jpg" width="200px">
+<img src= "https://ifh.cc/g/g18qOF.jpg" width="200px" height="200">
 
 ```markdown
 👨‍🎓Student ID : 20185282
