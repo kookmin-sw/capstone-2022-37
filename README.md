@@ -12,7 +12,7 @@ In a situation where the value of the SNS marketing market is increasing day by 
 
 
 ### 시스템 구성도
-<img src='https://ibb.co/L5VhkDq' border='0'></a>
+<a href='https://ifh.cc/v-jZFJY8' target='_blank'><img src='https://ifh.cc/g/jZFJY8.jpg' border='0'></a>
 
 
 ## 2. 팀 소개
