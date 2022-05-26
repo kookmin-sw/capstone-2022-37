@@ -18,7 +18,7 @@ In a situation where the value of the SNS marketing market is increasing day by 
 ## 2. 팀 소개
 #### 김용재 
 
-<img src= "https://img.marieclairekorea.com/2022/01/mck_61ea7d9ea51ad.jpg" width="200px">
+<img src= "https://ifh.cc/g/g18qOF.jpg" width="200px" height="200">
 
 ```markdown
 📧Student ID: 2018****
