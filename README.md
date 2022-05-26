@@ -53,6 +53,7 @@ In a situation where the value of the SNS marketing market is increasing day by 
 ## 4. 기타
 본 프로젝트는  **스페이스뱅크(주)** 회사와 함께 진행하는 2022 국민대학교 캡스톤디자인 산학자유주제 프로젝트이다.
 * 사내 보안 내규로 세부 구현 내용은 공개할 수 없습니다.
+* 사내 보안 내규로 일부 자료를 공개할 수 없습니다.(보고서, 시연동영상)
 
 
 
